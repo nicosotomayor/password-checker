@@ -21,7 +21,9 @@ cd password-checker
 
 **2) Instalar dependencias**  
 ```
-pip install -r requirements.txt
+sudo apt update
+sudo apt install python3-requests python3-colorama -y
+
 ```
 
 **3) Ejecutar**  
@@ -60,6 +62,7 @@ Introduce una contraseña a evaluar: M1l@Clave!2025#
 
 ## 📜 Licencia
 MIT License © 2025 [nicosotomayor](https://github.com/nicosotomayor)
+
 
 
 
