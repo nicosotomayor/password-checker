@@ -14,37 +14,37 @@ Esta aplicación combina tres funciones principales:
 ## 🚀 Instalación, dependencias y uso
 
 **1) Clonar el repositorio**  
-ABRIR```bash
+```
 git clone https://github.com/nicosotomayor/password-checker.git
 cd password-checker
-CERRAR```
+```
 
 **2) Instalar dependencias**  
-ABRIR```bash
+```
 pip install -r requirements.txt
-CERRAR```
+```
 
 **3) Ejecutar**  
-ABRIR```bash
+```
 python src/password_checker.py
-CERRAR```
+```
 
 **4) Probar**  
-ABRIR```bash
+```bash
 Introduce una contraseña a evaluar: M1l@Clave!2025#
-CERRAR```
+```
 
 ---
 
 ## 📋 Ejemplo de salida
-ABRIR```bash
+```
 🔍 Evaluando contraseña: M1l@Clave!2025#
 - Longitud: 14
 - Tipos de caracteres usados: 94
 - Entropía: 91.86 bits
 - Tiempo estimado crackeo: 🔐 Más de 1000 años (irrompible en la práctica)
 - Estado filtraciones: ✅ No aparece en filtraciones conocidas.
-CERRAR```
+```
 
 ---
 
@@ -60,5 +60,6 @@ CERRAR```
 
 ## 📜 Licencia
 MIT License © 2025 [nicosotomayor](https://github.com/nicosotomayor)
+
 
 
