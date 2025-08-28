@@ -28,6 +28,17 @@ Herramienta en **Python** para evaluar la seguridad de contraseñas: calcula **c
 ```bash
 git clone https://github.com/nicosotomayor/password-checker.git
 cd password-checker
-**2) Instalar dependencias**
-```bash
+2) Instalar dependencias
+
 pip install -r requirements.txt
+
+
+3) Ejecutar
+
+python src/password_checker.py
+
+
+4) Probar
+
+Introduce una contraseña a evaluar: M1l@Clave!2025#
+
